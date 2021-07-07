@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Working Royalty (Continued)</name>
   <packageId>Mlie.WorkingRoyalty</packageId>
@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -38,8 +39,8 @@ with permission
 Allow the Royalty to work.
 
 
-Unlock All Royalty Class = https://steamcommunity.com/sharedfiles/filedetails/?id=2009875292
-Unlock Emperor + Working Royality = https://steamcommunity.com/sharedfiles/filedetails/?id=2009898228
+Unlock All Royalty Class = https://steamcommunity.com/sharedfiles/filedetails/?id=2457241847
+Unlock Emperor + Working Royality = https://steamcommunity.com/sharedfiles/filedetails/?id=2457232702
 
 
 [img]https://i.imgur.com/p7Fv1Z6.gif[/img]
@@ -55,4 +56,3 @@ Unlock Emperor + Working Royality = https://steamcommunity.com/sharedfiles/filed
 [/list]
 </description>
 </ModMetaData>
-
